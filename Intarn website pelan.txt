@@ -1,0 +1,14 @@
+Project Name: Intarn Ecomerce website
+
+Two Panel:
+
+1.Website
+      1.Home page with logo, menu, different produtc category social media icon, email,Mobile number.
+      2.Product Category Page
+      3.Product detail page
+
+2. Admin Panel 
+       1.Secure login system 
+       2. user rmodule
+       3.Category Module
+       4.Product Module
